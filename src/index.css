@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #282c34;
+  background-image: url(D:\ProyectosReact\api-mov\src\img\cortina.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
