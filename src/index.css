@@ -15,3 +15,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.creditos p{
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  font-family: 'Montserrat', sans-serif;
+}
+.creditos{
+  position: relative;
+  bottom: 0;
+}
